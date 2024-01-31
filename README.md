@@ -9,15 +9,14 @@
   when you click the reset button.
 
 # Project-2
-## PROJECT CALCULATOR: Using tinter create a GUI application of calculator using grid
+## CALCULATOR: Using tinter create a GUI application of calculator using grid
 
 * It is a simple calculator GUI application using Tkinter with a Grid layout. Its create a simple calculator
   application with a grid layout using Tkinter.
 * You should see a calculator GUI with buttons arranged in a grid layout.
 
 # Project-3
-## FORM CREATION  Using tkinter in that email validation should be done using regular expression during submit 
-## if email is valid it should be submitted if not it should be showing form failed to submitted
+## FORM CREATION  Using tkinter in that email validation should be done using regular expression during submit if email is valid it should be submitted if not it should be showing form failed to submitted
 
 * A simple form using Tkinter in python. The form includes an email entry and when the user clicks the submit button,
   it checks if the entered email is valid using a regular expression, if the email is valid a message is displayed
@@ -30,10 +29,10 @@
 ## School Management System:
 * a. teacher - tables - sno,teacherId ,teacherName, teacherSalary, teacherJoiningDate
 * b. students - tables - sno,studentId ,studentName, pythonMark,MathMark,PhysicsMark
-        1. create a students
-   		  2. read a students 
-   		  3. update a students
-   		  4. delete a student
+        * create a students
+   		  * read a students 
+   		  * update a students
+   		  * delete a student
 * c. principal - tables - sno,teacherId ,teacherName, teacherSalary, teacherJoiningDate
 * d. admin - table - sno,adminId,adminName, adminPassword
 * admin who can able to create a teacher,students,principal,admin
